@@ -1,5 +1,6 @@
 ___Test Repository__
 
 
-![A beautiful sunset](https://example.com/images/sunset.jpg "Sunset at the beach")
+![Girl coding](https://example.com/images/girl_coding.jpg "Girl coding")
+
 
